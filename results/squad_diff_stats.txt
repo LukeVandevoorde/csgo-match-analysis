@@ -1,0 +1,240 @@
+Stats for cleaned, team has Friend 3, team excludes Friend 1 (96 games played):
+	Winrate = 0.469, Lossrate = 0.354, Drawrate = 0.177 (45:34:17)
+
+Stats for cleaned, team has Friend 3, team excludes Friend 4 (115 games played):
+	Winrate = 0.487, Lossrate = 0.374, Drawrate = 0.139 (56:43:16)
+
+Stats for cleaned, team has Friend 7, team excludes Friend 5 (32 games played):
+	Winrate = 0.500, Lossrate = 0.406, Drawrate = 0.094 (16:13:3)
+
+Stats for cleaned, team has Friend 7, team excludes Friend 11 (89 games played):
+	Winrate = 0.494, Lossrate = 0.404, Drawrate = 0.101 (44:36:9)
+
+Stats for cleaned, team has Friend 7, team excludes Friend 10 (78 games played):
+	Winrate = 0.500, Lossrate = 0.423, Drawrate = 0.077 (39:33:6)
+
+Stats for cleaned, team has Friend 3, team excludes Friend 6 (208 games played):
+	Winrate = 0.471, Lossrate = 0.404, Drawrate = 0.125 (98:84:26)
+
+Stats for cleaned, team has Friend 7, team excludes Friend 2 (31 games played):
+	Winrate = 0.516, Lossrate = 0.452, Drawrate = 0.032 (16:14:1)
+
+Stats for cleaned, team has Friend 2, team excludes Friend 1 (306 games played):
+	Winrate = 0.474, Lossrate = 0.415, Drawrate = 0.111 (145:127:34)
+
+Stats for cleaned, team has Friend 3, team excludes Friend 8 (206 games played):
+	Winrate = 0.466, Lossrate = 0.408, Drawrate = 0.126 (96:84:26)
+
+Stats for cleaned, team has Friend 3, team excludes Friend 10 (212 games played):
+	Winrate = 0.462, Lossrate = 0.406, Drawrate = 0.132 (98:86:28)
+
+Stats for cleaned, team has Friend 5, team excludes Friend 2 (57 games played):
+	Winrate = 0.456, Lossrate = 0.404, Drawrate = 0.140 (26:23:8)
+
+Stats for cleaned, team has Friend 3, team excludes Friend 11 (211 games played):
+	Winrate = 0.460, Lossrate = 0.408, Drawrate = 0.133 (97:86:28)
+
+Stats for cleaned, team has Friend 4, team excludes Friend 1 (99 games played):
+	Winrate = 0.455, Lossrate = 0.404, Drawrate = 0.141 (45:40:14)
+
+Stats for cleaned, team has Friend 3, team excludes Friend 9 (192 games played):
+	Winrate = 0.464, Lossrate = 0.422, Drawrate = 0.115 (89:81:22)
+
+Stats for cleaned, team has Friend 3, team excludes Friend 7 (197 games played):
+	Winrate = 0.452, Lossrate = 0.411, Drawrate = 0.137 (89:81:27)
+
+Stats for cleaned, team has Friend 7, team excludes Friend 6 (103 games played):
+	Winrate = 0.476, Lossrate = 0.437, Drawrate = 0.087 (49:45:9)
+
+Stats for cleaned, team has Friend 7, team excludes Friend 9 (103 games played):
+	Winrate = 0.476, Lossrate = 0.437, Drawrate = 0.087 (49:45:9)
+
+Stats for cleaned, team has Friend 5, team excludes Friend 10 (266 games played):
+	Winrate = 0.466, Lossrate = 0.429, Drawrate = 0.105 (124:114:28)
+
+Stats for cleaned, team has Friend 7, team excludes Friend 4 (87 games played):
+	Winrate = 0.471, Lossrate = 0.437, Drawrate = 0.092 (41:38:8)
+
+Stats for cleaned, team has Friend 5, team excludes Friend 1 (156 games played):
+	Winrate = 0.455, Lossrate = 0.423, Drawrate = 0.122 (71:66:19)
+
+Stats for cleaned, team has Friend 7, team excludes Friend 8 (100 games played):
+	Winrate = 0.470, Lossrate = 0.440, Drawrate = 0.090 (47:44:9)
+
+Stats for cleaned, team has Friend 3, team excludes Friend 5 (158 games played):
+	Winrate = 0.449, Lossrate = 0.430, Drawrate = 0.120 (71:68:19)
+
+Stats for cleaned, team has Friend 7, team excludes Friend 1 (75 games played):
+	Winrate = 0.467, Lossrate = 0.453, Drawrate = 0.080 (35:34:6)
+
+Stats for cleaned, team has Friend 5, team excludes Friend 4 (225 games played):
+	Winrate = 0.458, Lossrate = 0.453, Drawrate = 0.089 (103:102:20)
+
+Stats for cleaned, team has Friend 2, team excludes Friend 4 (494 games played):
+	Winrate = 0.451, Lossrate = 0.449, Drawrate = 0.099 (223:222:49)
+
+Stats for cleaned, team has Friend 5, team excludes Friend 11 (270 games played):
+	Winrate = 0.444, Lossrate = 0.444, Drawrate = 0.111 (120:120:30)
+
+Stats for cleaned, team has Friend 11, team excludes Friend 1 (28 games played):
+	Winrate = 0.500, Lossrate = 0.500, Drawrate = 0.000 (14:14:0)
+
+Stats for cleaned, team has Friend 5, team excludes Friend 6 (294 games played):
+	Winrate = 0.449, Lossrate = 0.452, Drawrate = 0.099 (132:133:29)
+
+Stats for cleaned, team has Friend 5, team excludes Friend 9 (290 games played):
+	Winrate = 0.448, Lossrate = 0.455, Drawrate = 0.097 (130:132:28)
+
+Stats for cleaned, team has Friend 5, team excludes Friend 8 (283 games played):
+	Winrate = 0.445, Lossrate = 0.452, Drawrate = 0.102 (126:128:29)
+
+Stats for cleaned, team has Friend 2, team excludes Friend 10 (647 games played):
+	Winrate = 0.448, Lossrate = 0.456, Drawrate = 0.096 (290:295:62)
+
+Stats for cleaned, team has Friend 7, team excludes Friend 3 (87 games played):
+	Winrate = 0.448, Lossrate = 0.460, Drawrate = 0.092 (39:40:8)
+
+Stats for cleaned, team has Friend 5, team excludes Friend 7 (225 games played):
+	Winrate = 0.440, Lossrate = 0.453, Drawrate = 0.107 (99:102:24)
+
+Stats for cleaned, team has Friend 2, team excludes Friend 9 (638 games played):
+	Winrate = 0.442, Lossrate = 0.466, Drawrate = 0.092 (282:297:59)
+
+Stats for cleaned, team has Friend 2, team excludes Friend 6 (667 games played):
+	Winrate = 0.441, Lossrate = 0.465, Drawrate = 0.094 (294:310:63)
+
+Stats for cleaned, team has Friend 2, team excludes Friend 11 (652 games played):
+	Winrate = 0.439, Lossrate = 0.463, Drawrate = 0.098 (286:302:64)
+
+Stats for cleaned, team has Friend 2, team excludes Friend 5 (433 games played):
+	Winrate = 0.439, Lossrate = 0.464, Drawrate = 0.097 (190:201:42)
+
+Stats for cleaned, team has Friend 2, team excludes Friend 8 (655 games played):
+	Winrate = 0.440, Lossrate = 0.466, Drawrate = 0.095 (288:305:62)
+
+Stats for cleaned, team has Friend 9, team excludes Friend 11 (36 games played):
+	Winrate = 0.389, Lossrate = 0.417, Drawrate = 0.194 (14:15:7)
+
+Stats for cleaned, team has Friend 2, team excludes Friend 7 (600 games played):
+	Winrate = 0.438, Lossrate = 0.468, Drawrate = 0.093 (263:281:56)
+
+Stats for cleaned, team has Friend 1, team excludes Friend 4 (300 games played):
+	Winrate = 0.430, Lossrate = 0.473, Drawrate = 0.097 (129:142:29)
+
+Stats for cleaned, team has Friend 11, team excludes Friend 10 (23 games played):
+	Winrate = 0.478, Lossrate = 0.522, Drawrate = 0.000 (11:12:0)
+
+Stats for cleaned, team has Friend 5, team excludes Friend 3 (241 games played):
+	Winrate = 0.432, Lossrate = 0.481, Drawrate = 0.087 (104:116:21)
+
+Stats for cleaned, team has Friend 9, team excludes Friend 6 (37 games played):
+	Winrate = 0.378, Lossrate = 0.432, Drawrate = 0.189 (14:16:7)
+
+Stats for cleaned, team has Friend 9, team excludes Friend 7 (37 games played):
+	Winrate = 0.378, Lossrate = 0.432, Drawrate = 0.189 (14:16:7)
+
+Stats for cleaned, team has Friend 9, team excludes Friend 8 (37 games played):
+	Winrate = 0.378, Lossrate = 0.432, Drawrate = 0.189 (14:16:7)
+
+Stats for cleaned, team has Friend 9, team excludes Friend 10 (37 games played):
+	Winrate = 0.378, Lossrate = 0.432, Drawrate = 0.189 (14:16:7)
+
+Stats for cleaned, team has Friend 2, team excludes Friend 3 (496 games played):
+	Winrate = 0.423, Lossrate = 0.488, Drawrate = 0.089 (210:242:44)
+
+Stats for cleaned, team has Friend 9, team excludes Friend 5 (31 games played):
+	Winrate = 0.387, Lossrate = 0.452, Drawrate = 0.161 (12:14:5)
+
+Stats for cleaned, team has Friend 3, team excludes Friend 2 (37 games played):
+	Winrate = 0.351, Lossrate = 0.432, Drawrate = 0.216 (13:16:8)
+
+Stats for cleaned, team has Friend 1, team excludes Friend 10 (402 games played):
+	Winrate = 0.413, Lossrate = 0.498, Drawrate = 0.090 (166:200:36)
+
+Stats for cleaned, team has Friend 1, team excludes Friend 11 (411 games played):
+	Winrate = 0.411, Lossrate = 0.501, Drawrate = 0.088 (169:206:36)
+
+Stats for cleaned, team has Friend 4, team excludes Friend 9 (190 games played):
+	Winrate = 0.411, Lossrate = 0.505, Drawrate = 0.084 (78:96:16)
+
+Stats for cleaned, team has Friend 11, team excludes Friend 9 (31 games played):
+	Winrate = 0.452, Lossrate = 0.548, Drawrate = 0.000 (14:17:0)
+
+Stats for cleaned, team has Friend 1, team excludes Friend 9 (395 games played):
+	Winrate = 0.408, Lossrate = 0.506, Drawrate = 0.086 (161:200:34)
+
+Stats for cleaned, team has Friend 1, team excludes Friend 6 (415 games played):
+	Winrate = 0.407, Lossrate = 0.506, Drawrate = 0.087 (169:210:36)
+
+Stats for cleaned, team has Friend 4, team excludes Friend 8 (212 games played):
+	Winrate = 0.401, Lossrate = 0.505, Drawrate = 0.094 (85:107:20)
+
+Stats for cleaned, team has Friend 1, team excludes Friend 8 (410 games played):
+	Winrate = 0.402, Lossrate = 0.510, Drawrate = 0.088 (165:209:36)
+
+Stats for cleaned, team has Friend 4, team excludes Friend 10 (212 games played):
+	Winrate = 0.396, Lossrate = 0.505, Drawrate = 0.099 (84:107:21)
+
+Stats for cleaned, team has Friend 4, team excludes Friend 6 (212 games played):
+	Winrate = 0.396, Lossrate = 0.509, Drawrate = 0.094 (84:108:20)
+
+Stats for cleaned, team has Friend 1, team excludes Friend 7 (387 games played):
+	Winrate = 0.401, Lossrate = 0.514, Drawrate = 0.085 (155:199:33)
+
+Stats for cleaned, team has Friend 4, team excludes Friend 11 (205 games played):
+	Winrate = 0.390, Lossrate = 0.507, Drawrate = 0.102 (80:104:21)
+
+Stats for cleaned, team has Friend 4, team excludes Friend 7 (198 games played):
+	Winrate = 0.389, Lossrate = 0.510, Drawrate = 0.101 (77:101:20)
+
+Stats for cleaned, team has Friend 1, team excludes Friend 5 (275 games played):
+	Winrate = 0.393, Lossrate = 0.516, Drawrate = 0.091 (108:142:25)
+
+Stats for cleaned, team has Friend 11, team excludes Friend 6 (32 games played):
+	Winrate = 0.438, Lossrate = 0.562, Drawrate = 0.000 (14:18:0)
+
+Stats for cleaned, team has Friend 11, team excludes Friend 8 (32 games played):
+	Winrate = 0.438, Lossrate = 0.562, Drawrate = 0.000 (14:18:0)
+
+Stats for cleaned, team has Friend 4, team excludes Friend 5 (143 games played):
+	Winrate = 0.392, Lossrate = 0.531, Drawrate = 0.077 (56:76:11)
+
+Stats for cleaned, team has Friend 1, team excludes Friend 2 (49 games played):
+	Winrate = 0.367, Lossrate = 0.510, Drawrate = 0.122 (18:25:6)
+
+Stats for cleaned, team has Friend 1, team excludes Friend 3 (298 games played):
+	Winrate = 0.386, Lossrate = 0.530, Drawrate = 0.084 (115:158:25)
+
+Stats for cleaned, team has Friend 10, team excludes Friend 1 (25 games played):
+	Winrate = 0.360, Lossrate = 0.520, Drawrate = 0.120 (9:13:3)
+
+Stats for cleaned, team has Friend 4, team excludes Friend 2 (36 games played):
+	Winrate = 0.333, Lossrate = 0.500, Drawrate = 0.167 (12:18:6)
+
+Stats for cleaned, team has Friend 4, team excludes Friend 3 (116 games played):
+	Winrate = 0.362, Lossrate = 0.560, Drawrate = 0.078 (42:65:9)
+
+Stats for cleaned, team has Friend 11, team excludes Friend 3 (30 games played):
+	Winrate = 0.400, Lossrate = 0.600, Drawrate = 0.000 (12:18:0)
+
+Stats for cleaned, team has Friend 11, team excludes Friend 4 (23 games played):
+	Winrate = 0.391, Lossrate = 0.609, Drawrate = 0.000 (9:14:0)
+
+Stats for cleaned, team has Friend 10, team excludes Friend 11 (29 games played):
+	Winrate = 0.310, Lossrate = 0.586, Drawrate = 0.103 (9:17:3)
+
+Stats for cleaned, team has Friend 10, team excludes Friend 6 (38 games played):
+	Winrate = 0.316, Lossrate = 0.605, Drawrate = 0.079 (12:23:3)
+
+Stats for cleaned, team has Friend 10, team excludes Friend 8 (38 games played):
+	Winrate = 0.316, Lossrate = 0.605, Drawrate = 0.079 (12:23:3)
+
+Stats for cleaned, team has Friend 10, team excludes Friend 9 (38 games played):
+	Winrate = 0.316, Lossrate = 0.605, Drawrate = 0.079 (12:23:3)
+
+Stats for cleaned, team has Friend 10, team excludes Friend 4 (36 games played):
+	Winrate = 0.306, Lossrate = 0.611, Drawrate = 0.083 (11:22:3)
+
+Stats for cleaned, team has Friend 10, team excludes Friend 3 (37 games played):
+	Winrate = 0.297, Lossrate = 0.622, Drawrate = 0.081 (11:23:3)
+

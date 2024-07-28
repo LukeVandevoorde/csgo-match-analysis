@@ -1,0 +1,49 @@
+User Performance Stats: KAPR = Kills + 0.4*Assists per round:
+Games with Friend 7 (n=103)
+              Friend 7:		KAPR=0.832   DPR=0.704   VAR(KAPR)=0.062   KAPR-Win Correlaton=0.478
+                  USER:		KAPR=0.956   DPR=0.700   VAR(KAPR)=0.055   KAPR-Win Correlaton=0.274
+
+Games with Friend 9 (n=37)
+              Friend 9:		KAPR=0.452   DPR=0.783   VAR(KAPR)=0.017   KAPR-Win Correlaton=0.275
+                  USER:		KAPR=1.007   DPR=0.735   VAR(KAPR)=0.034   KAPR-Win Correlaton=0.284
+
+Games with Friend 1 (n=415)
+              Friend 1:		KAPR=0.856   DPR=0.726   VAR(KAPR)=0.048   KAPR-Win Correlaton=0.443
+                  USER:		KAPR=0.936   DPR=0.717   VAR(KAPR)=0.041   KAPR-Win Correlaton=0.344
+
+Games with Friend 5 (n=296)
+              Friend 5:		KAPR=0.752   DPR=0.691   VAR(KAPR)=0.042   KAPR-Win Correlaton=0.323
+                  USER:		KAPR=0.967   DPR=0.715   VAR(KAPR)=0.047   KAPR-Win Correlaton=0.355
+
+Games with Friend 2 (n=672)
+              Friend 2:		KAPR=0.848   DPR=0.718   VAR(KAPR)=0.043   KAPR-Win Correlaton=0.387
+                  USER:		KAPR=0.935   DPR=0.717   VAR(KAPR)=0.042   KAPR-Win Correlaton=0.356
+
+Games with USER (n=800)
+                  USER:		KAPR=0.940   DPR=0.717   VAR(KAPR)=0.045   KAPR-Win Correlaton=0.362
+                  USER:		KAPR=0.940   DPR=0.717   VAR(KAPR)=0.045   KAPR-Win Correlaton=0.362
+
+Games with Friend 3 (n=213)
+              Friend 3:		KAPR=1.054   DPR=0.672   VAR(KAPR)=0.066   KAPR-Win Correlaton=0.460
+                  USER:		KAPR=0.933   DPR=0.714   VAR(KAPR)=0.049   KAPR-Win Correlaton=0.367
+
+Games with Friend 10 (n=38)
+             Friend 10:		KAPR=0.799   DPR=0.802   VAR(KAPR)=0.043   KAPR-Win Correlaton=0.414
+                  USER:		KAPR=0.913   DPR=0.718   VAR(KAPR)=0.047   KAPR-Win Correlaton=0.408
+
+Games with Friend 4 (n=214)
+              Friend 4:		KAPR=0.738   DPR=0.713   VAR(KAPR)=0.048   KAPR-Win Correlaton=0.401
+                  USER:		KAPR=0.958   DPR=0.732   VAR(KAPR)=0.050   KAPR-Win Correlaton=0.456
+
+Games with Friend 6 (n=7)
+              Friend 6:		KAPR=0.600   DPR=0.732   VAR(KAPR)=0.009   KAPR-Win Correlaton=0.836
+                  USER:		KAPR=0.942   DPR=0.679   VAR(KAPR)=0.051   KAPR-Win Correlaton=0.523
+
+Games with Friend 8 (n=18)
+              Friend 8:		KAPR=0.660   DPR=0.667   VAR(KAPR)=0.020   KAPR-Win Correlaton=0.535
+                  USER:		KAPR=1.011   DPR=0.656   VAR(KAPR)=0.044   KAPR-Win Correlaton=0.526
+
+Games with Friend 11 (n=32)
+             Friend 11:		KAPR=0.917   DPR=0.730   VAR(KAPR)=0.048   KAPR-Win Correlaton=0.484
+                  USER:		KAPR=0.880   DPR=0.765   VAR(KAPR)=0.053   KAPR-Win Correlaton=0.613
+

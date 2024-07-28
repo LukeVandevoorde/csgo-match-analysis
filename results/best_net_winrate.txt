@@ -1,0 +1,7 @@
+best net winrate: 0.3653846153846154
+Stats for cleaned, team has Friend 2, NOT on Competitive Inferno, team has Friend 3, NOT on Competitive Cache, team excludes Friend 1 (52 games played):
+	Winrate = 0.615, Lossrate = 0.250, Drawrate = 0.135 (32:13:7)
+
+worst net winrate: -0.4615384615384615
+Stats for cleaned, NOT on Competitive Mirage, team excludes Friend 4, NOT on Competitive Dust II, team excludes Friend 3, NOT on Competitive Cache, team has Friend 1 (52 games played):
+	Winrate = 0.173, Lossrate = 0.635, Drawrate = 0.192 (9:33:10)

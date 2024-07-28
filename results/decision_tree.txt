@@ -1,0 +1,118 @@
+   t. Entropy: 0.986
+        Split using "on Competitive Mirage". Entropy Decrease = 0.006 (0.986 ─> 0.980)
+        ├── on Competitive Mirage. Entropy: 0.999
+        │       Split using "team has Friend 4". Entropy Decrease = 0.005 (0.999 ─> 0.994)
+        │       ├── NOT team has Friend 4. Entropy: 1.000
+        │       │       Split using "team has Friend 5". Entropy Decrease = 0.002 (1.000 ─> 0.998)
+        │       │       ├── team has Friend 5. Entropy: 0.995
+        │       │       │       Split using "team has Friend 10". Entropy Decrease = 0.024 (0.995 ─> 0.971)
+        │       │       │       ├── NOT team has Friend 10. Entropy: 0.983
+        │       │       │       │       Split using "team has Friend 2". Entropy Decrease = 0.007 (0.983 ─> 0.976)
+        │       │       │       │       ├── team has Friend 2. Entropy: 0.973
+        │       │       │       │       │       Split using "team has Friend 1". Entropy Decrease = 0.005 (0.973 ─> 0.967)
+        │       │       │       │       │       ├── team has Friend 1. Entropy: 0.944
+        │       │       │       │       │       │       Positive Rate = 0.639 (n=36)
+        │       │       │       │       │       │       
+        │       │       │       │       │       └── NOT team has Friend 1. Entropy: 0.991
+        │       │       │       │       │               Positive Rate = 0.556 (n=36)
+        │       │       │       │       │               
+        │       │       │       │       └── NOT team has Friend 2. Entropy: 0.996
+        │       │       │       │               Positive Rate = 0.462 (n=13)
+        │       │       │       │               
+        │       │       │       └── team has Friend 10. Entropy: 0.890
+        │       │       │               Positive Rate = 0.308 (n=13)
+        │       │       │               
+        │       │       └── NOT team has Friend 5. Entropy: 0.999
+        │       │               Split using "team has Friend 1". Entropy Decrease = 0.004 (0.999 ─> 0.996)
+        │       │               ├── team has Friend 1. Entropy: 0.999
+        │       │               │       Split using "team has Friend 3". Entropy Decrease = 0.001 (0.999 ─> 0.998)
+        │       │               │       ├── team has Friend 3. Entropy: 0.989
+        │       │               │       │       Positive Rate = 0.562 (n=16)
+        │       │               │       │       
+        │       │               │       └── NOT team has Friend 3. Entropy: 1.000
+        │       │               │               Positive Rate = 0.507 (n=67)
+        │       │               │               
+        │       │               └── NOT team has Friend 1. Entropy: 0.992
+        │       │                       Positive Rate = 0.446 (n=65)
+        │       │                       
+        │       └── team has Friend 4. Entropy: 0.978
+        │               Split using "team has Friend 1". Entropy Decrease = 0.026 (0.978 ─> 0.953)
+        │               ├── NOT team has Friend 1. Entropy: 1.000
+        │               │       Positive Rate = 0.512 (n=41)
+        │               │       
+        │               └── team has Friend 1. Entropy: 0.911
+        │                       Positive Rate = 0.326 (n=46)
+        │                       
+        └── NOT on Competitive Mirage. Entropy: 0.966
+                Split using "team has Friend 3". Entropy Decrease = 0.006 (0.966 ─> 0.960)
+                ├── NOT team has Friend 3. Entropy: 0.944
+                │       Split using "on Competitive Overpass". Entropy Decrease = 0.009 (0.944 ─> 0.935)
+                │       ├── NOT on Competitive Overpass. Entropy: 0.960
+                │       │       Split using "team has Friend 10". Entropy Decrease = 0.009 (0.960 ─> 0.951)
+                │       │       ├── NOT team has Friend 10. Entropy: 0.969
+                │       │       │       Split using "team has Friend 1". Entropy Decrease = 0.011 (0.969 ─> 0.957)
+                │       │       │       ├── NOT team has Friend 1. Entropy: 0.995
+                │       │       │       │       Split using "team has Friend 5". Entropy Decrease = 0.012 (0.995 ─> 0.983)
+                │       │       │       │       ├── NOT team has Friend 5. Entropy: 1.000
+                │       │       │       │       │       Split using "on Competitive Cache". Entropy Decrease = 0.014 (1.000 ─> 0.986)
+                │       │       │       │       │       ├── on Competitive Cache. Entropy: 0.974
+                │       │       │       │       │       │       Positive Rate = 0.594 (n=32)
+                │       │       │       │       │       │       
+                │       │       │       │       │       └── NOT on Competitive Cache. Entropy: 0.994
+                │       │       │       │       │               Positive Rate = 0.455 (n=44)
+                │       │       │       │       │               
+                │       │       │       │       └── team has Friend 5. Entropy: 0.959
+                │       │       │       │               Split using "team has Friend 7". Entropy Decrease = 0.011 (0.959 ─> 0.949)
+                │       │       │       │               ├── team has Friend 7. Entropy: 0.998
+                │       │       │       │               │       Positive Rate = 0.471 (n=17)
+                │       │       │       │               │       
+                │       │       │       │               └── NOT team has Friend 7. Entropy: 0.927
+                │       │       │       │                       Positive Rate = 0.342 (n=38)
+                │       │       │       │                       
+                │       │       │       └── team has Friend 1. Entropy: 0.921
+                │       │       │               Split using "on Competitive Inferno". Entropy Decrease = 0.019 (0.921 ─> 0.902)
+                │       │       │               ├── NOT on Competitive Inferno. Entropy: 0.959
+                │       │       │               │       Split using "team has Friend 2". Entropy Decrease = 0.025 (0.959 ─> 0.934)
+                │       │       │               │       ├── team has Friend 2. Entropy: 0.981
+                │       │       │               │       │       Split using "team has Friend 4". Entropy Decrease = 0.011 (0.981 ─> 0.970)
+                │       │       │               │       │       ├── NOT team has Friend 4. Entropy: 0.996
+                │       │       │               │       │       │       Split using "on Competitive Cache". Entropy Decrease = 0.031 (0.996 ─> 0.965)
+                │       │       │               │       │       │       ├── on Competitive Cache. Entropy: 0.994
+                │       │       │               │       │       │       │       Positive Rate = 0.545 (n=33)
+                │       │       │               │       │       │       │       
+                │       │       │               │       │       │       └── NOT on Competitive Cache. Entropy: 0.918
+                │       │       │               │       │       │               Positive Rate = 0.333 (n=21)
+                │       │       │               │       │       │               
+                │       │       │               │       │       └── team has Friend 4. Entropy: 0.918
+                │       │       │               │       │               Positive Rate = 0.333 (n=27)
+                │       │       │               │       │               
+                │       │       │               │       └── NOT team has Friend 2. Entropy: 0.696
+                │       │       │               │               Positive Rate = 0.188 (n=16)
+                │       │       │               │               
+                │       │       │               └── on Competitive Inferno. Entropy: 0.753
+                │       │       │                       Positive Rate = 0.216 (n=37)
+                │       │       │                       
+                │       │       └── team has Friend 10. Entropy: 0.672
+                │       │               Positive Rate = 0.176 (n=17)
+                │       │               
+                │       └── on Competitive Overpass. Entropy: 0.773
+                │               Positive Rate = 0.227 (n=44)
+                │               
+                └── team has Friend 3. Entropy: 0.996
+                        Split using "team has Friend 2". Entropy Decrease = 0.010 (0.996 ─> 0.986)
+                        ├── team has Friend 2. Entropy: 1.000
+                        │       Split using "on Competitive Inferno". Entropy Decrease = 0.009 (1.000 ─> 0.990)
+                        │       ├── NOT on Competitive Inferno. Entropy: 0.999
+                        │       │       Split using "team has Friend 1". Entropy Decrease = 0.010 (0.999 ─> 0.989)
+                        │       │       ├── NOT team has Friend 1. Entropy: 0.982
+                        │       │       │       Positive Rate = 0.578 (n=45)
+                        │       │       │       
+                        │       │       └── team has Friend 1. Entropy: 0.995
+                        │       │               Positive Rate = 0.458 (n=48)
+                        │       │               
+                        │       └── on Competitive Inferno. Entropy: 0.954
+                        │               Positive Rate = 0.375 (n=24)
+                        │               
+                        └── NOT team has Friend 2. Entropy: 0.918
+                                Positive Rate = 0.333 (n=24)
+                                

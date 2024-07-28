@@ -1,0 +1,44 @@
+ALL stats (874 games played)
+Stats for  (874 games played):
+	Winrate = 0.437, Lossrate = 0.458, Drawrate = 0.105 (382:400:92)
+
+active duty long-match stats (819 games played)
+Stats for is_full_long_match, active_duty (819 games played):
+	Winrate = 0.429, Lossrate = 0.468, Drawrate = 0.104 (351:383:85)
+
+Stats for active_duty, maps with over 30 plays, is_full_long_match (800 games played):
+	Winrate = 0.430, Lossrate = 0.466, Drawrate = 0.104 (344:373:83)
+
+Stats for is_full_long_match, active_duty, on Competitive Ancient (1 games played):
+	Winrate = 1.000, Lossrate = 0.000, Drawrate = 0.000 (1:0:0)
+
+Stats for is_full_long_match, active_duty, on Competitive Anubis (4 games played):
+	Winrate = 0.500, Lossrate = 0.250, Drawrate = 0.250 (2:1:1)
+
+Stats for is_full_long_match, active_duty, on Competitive Cobblestone (5 games played):
+	Winrate = 0.400, Lossrate = 0.400, Drawrate = 0.200 (2:2:1)
+
+Stats for is_full_long_match, active_duty, on Competitive Mirage (333 games played):
+	Winrate = 0.483, Lossrate = 0.420, Drawrate = 0.096 (161:140:32)
+
+Stats for is_full_long_match, active_duty, on Competitive Train (29 games played):
+	Winrate = 0.483, Lossrate = 0.448, Drawrate = 0.069 (14:13:2)
+
+Stats for is_full_long_match, active_duty, on Competitive Dust II (101 games played):
+	Winrate = 0.406, Lossrate = 0.455, Drawrate = 0.139 (41:46:14)
+
+Stats for is_full_long_match, active_duty, on Competitive Cache (172 games played):
+	Winrate = 0.430, Lossrate = 0.500, Drawrate = 0.070 (74:86:12)
+
+Stats for is_full_long_match, active_duty, on Competitive Inferno (96 games played):
+	Winrate = 0.323, Lossrate = 0.531, Drawrate = 0.146 (31:51:14)
+
+Stats for is_full_long_match, active_duty, on Competitive Overpass (69 games played):
+	Winrate = 0.333, Lossrate = 0.536, Drawrate = 0.130 (23:37:9)
+
+Stats for is_full_long_match, active_duty, on Competitive Nuke (8 games played):
+	Winrate = 0.250, Lossrate = 0.750, Drawrate = 0.000 (2:6:0)
+
+Stats for is_full_long_match, active_duty, on Competitive Vertigo (1 games played):
+	Winrate = 0.000, Lossrate = 1.000, Drawrate = 0.000 (0:1:0)
+

@@ -1,0 +1,158 @@
+##########################
+
+Stats for core size 2
+
+Stats for cleaned, team has Friend 8 (18 games played):
+	Winrate = 0.500, Lossrate = 0.389, Drawrate = 0.111 (9:7:2)
+
+Stats for cleaned, team has Friend 3 (213 games played):
+	Winrate = 0.465, Lossrate = 0.404, Drawrate = 0.131 (99:86:28)
+
+Stats for cleaned, team has Friend 7 (103 games played):
+	Winrate = 0.476, Lossrate = 0.437, Drawrate = 0.087 (49:45:9)
+
+Stats for cleaned, team has Friend 5 (296 games played):
+	Winrate = 0.446, Lossrate = 0.453, Drawrate = 0.101 (132:134:30)
+
+Stats for cleaned, team has Friend 2 (672 games played):
+	Winrate = 0.440, Lossrate = 0.464, Drawrate = 0.095 (296:312:64)
+
+Stats for cleaned, team has Friend 9 (37 games played):
+	Winrate = 0.378, Lossrate = 0.432, Drawrate = 0.189 (14:16:7)
+
+Stats for cleaned, team has Friend 1 (415 games played):
+	Winrate = 0.407, Lossrate = 0.506, Drawrate = 0.087 (169:210:36)
+
+Stats for cleaned, team has Friend 4 (214 games played):
+	Winrate = 0.397, Lossrate = 0.505, Drawrate = 0.098 (85:108:21)
+
+Stats for cleaned, team has Friend 11 (32 games played):
+	Winrate = 0.438, Lossrate = 0.562, Drawrate = 0.000 (14:18:0)
+
+Stats for cleaned, team has Friend 6 (7 games played):
+	Winrate = 0.286, Lossrate = 0.429, Drawrate = 0.286 (2:3:2)
+
+Stats for cleaned, team has Friend 10 (38 games played):
+	Winrate = 0.316, Lossrate = 0.605, Drawrate = 0.079 (12:23:3)
+
+##########################
+
+Stats for core size 3
+
+Over 20 results. Showing top and bottom 10
+Stats for cleaned, team has Friend 9, Friend 3 (21 games played):
+	Winrate = 0.476, Lossrate = 0.238, Drawrate = 0.286 (10:5:6)
+
+Stats for cleaned, team has Friend 5, Friend 3 (55 games played):
+	Winrate = 0.509, Lossrate = 0.327, Drawrate = 0.164 (28:18:9)
+
+Stats for cleaned, team has Friend 1, Friend 7 (28 games played):
+	Winrate = 0.500, Lossrate = 0.393, Drawrate = 0.107 (14:11:3)
+
+Stats for cleaned, team has Friend 2, Friend 3 (176 games played):
+	Winrate = 0.489, Lossrate = 0.398, Drawrate = 0.114 (86:70:20)
+
+Stats for cleaned, team has Friend 2, Friend 7 (72 games played):
+	Winrate = 0.458, Lossrate = 0.431, Drawrate = 0.111 (33:31:8)
+
+Stats for cleaned, team has Friend 1, Friend 3 (117 games played):
+	Winrate = 0.462, Lossrate = 0.444, Drawrate = 0.094 (54:52:11)
+
+Stats for cleaned, team has Friend 5, Friend 7 (71 games played):
+	Winrate = 0.465, Lossrate = 0.451, Drawrate = 0.085 (33:32:6)
+
+Stats for cleaned, team has Friend 11, Friend 2 (20 games played):
+	Winrate = 0.500, Lossrate = 0.500, Drawrate = 0.000 (10:10:0)
+
+Stats for cleaned, team has Friend 4, Friend 3 (98 games played):
+	Winrate = 0.439, Lossrate = 0.439, Drawrate = 0.122 (43:43:12)
+
+Stats for cleaned, team has Friend 2, Friend 5 (239 games played):
+	Winrate = 0.444, Lossrate = 0.464, Drawrate = 0.092 (106:111:22)
+
+Stats for cleaned, team has Friend 1, Friend 5 (140 games played):
+	Winrate = 0.436, Lossrate = 0.486, Drawrate = 0.079 (61:68:11)
+
+Stats for cleaned, team has Friend 11, Friend 5 (26 games played):
+	Winrate = 0.462, Lossrate = 0.538, Drawrate = 0.000 (12:14:0)
+
+Stats for cleaned, team has Friend 7, Friend 10 (25 games played):
+	Winrate = 0.400, Lossrate = 0.480, Drawrate = 0.120 (10:12:3)
+
+Stats for cleaned, team has Friend 2, Friend 1 (366 games played):
+	Winrate = 0.413, Lossrate = 0.505, Drawrate = 0.082 (151:185:30)
+
+Stats for cleaned, team has Friend 2, Friend 4 (178 games played):
+	Winrate = 0.410, Lossrate = 0.506, Drawrate = 0.084 (73:90:15)
+
+Stats for cleaned, team has Friend 9, Friend 1 (20 games played):
+	Winrate = 0.400, Lossrate = 0.500, Drawrate = 0.100 (8:10:2)
+
+Stats for cleaned, team has Friend 9, Friend 4 (24 games played):
+	Winrate = 0.292, Lossrate = 0.500, Drawrate = 0.208 (7:12:5)
+
+Stats for cleaned, team has Friend 4, Friend 1 (115 games played):
+	Winrate = 0.348, Lossrate = 0.591, Drawrate = 0.061 (40:68:7)
+
+Stats for cleaned, team has Friend 5, Friend 10 (30 games played):
+	Winrate = 0.267, Lossrate = 0.667, Drawrate = 0.067 (8:20:2)
+
+Stats for cleaned, team has Friend 2, Friend 10 (25 games played):
+	Winrate = 0.240, Lossrate = 0.680, Drawrate = 0.080 (6:17:2)
+
+##########################
+
+Stats for core size 4
+
+Stats for cleaned, team has Friend 2, Friend 5, Friend 3 (44 games played):
+	Winrate = 0.545, Lossrate = 0.341, Drawrate = 0.114 (24:15:5)
+
+Stats for cleaned, team has Friend 1, Friend 5, Friend 3 (35 games played):
+	Winrate = 0.514, Lossrate = 0.371, Drawrate = 0.114 (18:13:4)
+
+Stats for cleaned, team has Friend 1, Friend 5, Friend 7 (20 games played):
+	Winrate = 0.500, Lossrate = 0.400, Drawrate = 0.100 (10:8:2)
+
+Stats for cleaned, team has Friend 2, Friend 4, Friend 3 (77 games played):
+	Winrate = 0.481, Lossrate = 0.429, Drawrate = 0.091 (37:33:7)
+
+Stats for cleaned, team has Friend 2, Friend 1, Friend 7 (24 games played):
+	Winrate = 0.458, Lossrate = 0.417, Drawrate = 0.125 (11:10:3)
+
+Stats for cleaned, team has Friend 2, Friend 1, Friend 3 (99 games played):
+	Winrate = 0.455, Lossrate = 0.455, Drawrate = 0.091 (45:45:9)
+
+Stats for cleaned, team has Friend 2, Friend 1, Friend 5 (128 games played):
+	Winrate = 0.430, Lossrate = 0.484, Drawrate = 0.086 (55:62:11)
+
+Stats for cleaned, team has Friend 2, Friend 4, Friend 5 (54 games played):
+	Winrate = 0.426, Lossrate = 0.481, Drawrate = 0.093 (23:26:5)
+
+Stats for cleaned, team has Friend 2, Friend 5, Friend 7 (45 games played):
+	Winrate = 0.400, Lossrate = 0.489, Drawrate = 0.111 (18:22:5)
+
+Stats for cleaned, team has Friend 2, Friend 9, Friend 4 (21 games played):
+	Winrate = 0.333, Lossrate = 0.524, Drawrate = 0.143 (7:11:3)
+
+Stats for cleaned, team has Friend 4, Friend 1, Friend 3 (41 games played):
+	Winrate = 0.366, Lossrate = 0.561, Drawrate = 0.073 (15:23:3)
+
+Stats for cleaned, team has Friend 4, Friend 1, Friend 5 (33 games played):
+	Winrate = 0.364, Lossrate = 0.576, Drawrate = 0.061 (12:19:2)
+
+Stats for cleaned, team has Friend 2, Friend 4, Friend 1 (104 games played):
+	Winrate = 0.346, Lossrate = 0.596, Drawrate = 0.058 (36:62:6)
+
+##########################
+
+Stats for core size 5
+
+Stats for cleaned, team has Friend 2, Friend 1, Friend 5, Friend 3 (30 games played):
+	Winrate = 0.500, Lossrate = 0.367, Drawrate = 0.133 (15:11:4)
+
+Stats for cleaned, team has Friend 2, Friend 4, Friend 1, Friend 5 (30 games played):
+	Winrate = 0.367, Lossrate = 0.567, Drawrate = 0.067 (11:17:2)
+
+Stats for cleaned, team has Friend 2, Friend 4, Friend 1, Friend 3 (33 games played):
+	Winrate = 0.364, Lossrate = 0.576, Drawrate = 0.061 (12:19:2)
+
